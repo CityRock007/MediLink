@@ -1,0 +1,11 @@
+Patients / Doctors → MediLink Mobile & Web App (Flutter)
+│
+│──> REST API (Python FastAPI)
+│
+│──> PostgreSQL Database (ReinHost Cloud DB)
+│
+│──> ReinHost VPS (Backend + Admin Panel)
+│
+│──> Email / SMS Notification Service (SendGrid / Twilio)
+│
+└──> Medical Record Storage (Encrypted Files on ReinHost Storage)
